@@ -32,7 +32,7 @@
 <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png">
 <p> -> <a target=”_blank” href="https://twitter.com/Solixx4">Twitter</a>; </p>
 <img align="left" width="25px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
-<p> -> <a target=”_blank” href="https://discord.gg/EtQDDW4aPq">Discord</a>; </p>
+<p> -> <a target=”_blank”>Discord (working at)</a>; </p>
 
 <p> Email: <a target=”_blank” href="mailto:solixxoficialcomercial@gmail.com">solixxoficialcomercial@gmail.com</a> </p>
 
