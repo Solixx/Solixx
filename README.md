@@ -2,11 +2,11 @@
 
 <img align="right" width="250px" src="https://cdn.discordapp.com/attachments/632599912814608404/937265900908867594/solixx_logo_animacao.png">
 <p> -> Hi, im Manuel Gonçalves, im a 20 years old developer. </p>
-<p> -> I am a 1st year Computer Engineering student. </p>
+<p> -> I am a 1st year COMPUTER ENGINEERING student. </p>
 
 <h1> ★Story★ </h1>
 
-<p> -> I start programing in 2018. </p>
+<p> -> I started programming in 2018 at school. </p>
 <p> -> 2018: C++; </p>
 <p> -> 2019: Java; </p>
 <p> -> 2020: HTML, CSS and PHP; </p>
@@ -17,7 +17,7 @@
 
 <img align="left" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
 
-<p> -> I'm currently learning game development on the unity engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
+<p> -> I'm currently learning GAME DEVELOPMENT on the UNITY Engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
 
 <h1> ★Objectives★ </h1>
 
