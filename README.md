@@ -27,6 +27,8 @@
 
 <h1> ★Contacts★ </h1>
 
+<img align="right" width="25px" src="https://cdn.discordapp.com/attachments/632599912814608404/937265900908867594/solixx_logo_animacao.png">
+<p> -> <a target=”_blank”>WebSite (working at)</a>; </p>
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 <p> -> <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">Linkedin</a>; </p>
 <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png">
