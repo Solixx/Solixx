@@ -1,5 +1,6 @@
 <h1> ★About★ </h1>
 
+<img align="right" width="250px" src="https://cdn.discordapp.com/attachments/632599912814608404/937265900908867594/solixx_logo_animacao.png">
 <p> -> Hi, im Manuel Gonçalves, im a 20 years old developer. </p>
 <p> -> I am a 1st year Computer Engineering student. </p>
 
