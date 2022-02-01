@@ -7,10 +7,10 @@
 <h1> ★Story★ </h1>
 
 <p> -> I started programming in 2018 at school. </p>
-<p> -> 2018: C++; </p>
-<p> -> 2019: Java; </p>
-<p> -> 2020: HTML, CSS and PHP; </p>
-<p> -> 2021: JavaScript and C; </p>
+<p> -> 2018/2019: C++; </p>
+<p> -> 2019/2020: Java; </p>
+<p> -> 2020/2021: HTML, CSS and PHP; </p>
+<p> -> 2021/2022: JavaScript and C; </p>
 <p> -> 2022: C# and Unity; </p>
 
 <h1> ★Current Learning★ </h1>
