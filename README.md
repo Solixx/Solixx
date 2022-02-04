@@ -15,7 +15,7 @@
 
 <h1> ★Current Learning★ </h1>
 
-<img align="left" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
+<img align="left" width="50px" src="solixx_png.png">
 
 <p> -> I'm currently learning GAME DEVELOPMENT on the UNITY Engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
 
@@ -27,7 +27,7 @@
 
 <h1> ★Contacts★ </h1>
 
-<img align="left" width="25px" src="https://cdn.discordapp.com/attachments/632599912814608404/937265900908867594/solixx_logo_animacao.png">
+<img align="left" width="25px" src="solixx_png.png">
 <p> -> <a target=”_blank”>WebSite (working at)</a>; </p>
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 <p> -> <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">Linkedin</a>; </p>
