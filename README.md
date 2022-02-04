@@ -1,6 +1,6 @@
 <h1> ★About★ </h1>
 
-<img align="right" width="250px" src="https://cdn.discordapp.com/attachments/632599912814608404/937265900908867594/solixx_logo_animacao.png">
+<img align="right" width="250px" src="solixx_png.png">
 <p> -> Hi, im Manuel Gonçalves, im a 20 years old developer. </p>
 <p> -> I am a 1st year COMPUTER ENGINEERING student. </p>
 
@@ -15,7 +15,7 @@
 
 <h1> ★Current Learning★ </h1>
 
-<img align="left" width="50px" src="solixx_png.png">
+<img align="left" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
 
 <p> -> I'm currently learning GAME DEVELOPMENT on the UNITY Engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
 
