@@ -41,7 +41,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solixx)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solixx)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
