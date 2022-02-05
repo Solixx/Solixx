@@ -15,7 +15,7 @@
 
 <h1> ★Current Learning★ </h1>
 
-<img align="left" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
+<img align="left" alt="unity" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
 
 <p> -> I'm currently learning GAME DEVELOPMENT on the UNITY Engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
 
@@ -38,8 +38,27 @@
 
 <p> Email: <a target=”_blank” href="mailto:solixxoficialcomercial@gmail.com">solixxoficialcomercial@gmail.com</a> </p>
 
+<h1> ★Languages & Tools★ </h1>
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="c" width="26px" src="https://img.icons8.com/color/480/c-programming.png" />
+<img align="left" alt="c++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="c#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
+<img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img align="left" alt="Unity" width="48px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png" />
 
+<br>
+
+<h1 align="left"> ★Stats★ </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solixx&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
