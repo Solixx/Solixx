@@ -38,6 +38,11 @@
 
 <p> Email: <a target=”_blank” href="mailto:solixxoficialcomercial@gmail.com">solixxoficialcomercial@gmail.com</a> </p>
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solixx)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 
 - 👋 Hi, I’m @Solixx
