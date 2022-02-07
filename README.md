@@ -18,6 +18,7 @@
 <img align="left" alt="unity" width="50px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png">
 
 <p> -> I'm currently learning GAME DEVELOPMENT on the UNITY Engine | <a target=”_blank” href="https://learn.unity.com/u/5ff22d0fedbc2a002ba486f3?tab=profile"> Unity Profile </a>. </p>
+<p> -> Learning JavaScript, C and C#. </p>
 
 <h1> ★Objectives★ </h1>
 
