@@ -26,43 +26,57 @@
 <p> -> In the future create my own COMPANY or TEAM; </p>
 <p> -> Financial Freedom. </p>
 
-<h1> ★Contacts★ </h1>
+<h1 align="center"> ★Contacts★ </h1>
 
-<img align="left" width="25px" src="solixx_png.png">
-<p> -> <a target=”_blank”>WebSite (working at)</a>; </p>
-<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-<p> -> <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">Linkedin</a>; </p>
-<img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png">
-<p> -> <a target=”_blank” href="https://twitter.com/Solixx4">Twitter</a>; </p>
-<img align="left" width="25px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
-<p> -> <a target=”_blank”>Discord (working at)</a>; </p>
+<p align="center">
+   <a target=”_blank”>
+      <img width="40px" src="solixx_png.png">
+  </a>
+  <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">
+      <img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+  </a>
+  <a target=”_blank” href="https://twitter.com/Solixx4">
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png">
+  </a>
+  <a target="_blank">
+      <img width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
+  </a>
+</p>
 
-<p> Email: <a target=”_blank” href="mailto:solixxoficialcomercial@gmail.com">solixxoficialcomercial@gmail.com</a> </p>
+<p align="center"> <a target=”_blank” href="mailto:solixxoficialcomercial@gmail.com">solixxoficialcomercial@gmail.com</a> </p>
 
-<h1> ★Languages & Tools★ </h1>
+<h1 align="center"> ★Languages & Tools★ </h1>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="c" width="26px" src="https://img.icons8.com/color/480/c-programming.png" />
-<img align="left" alt="c++" width="23px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="c#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
-<img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left" alt="Unity" width="48px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png" />
-
+<p align="center">
+<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="c" width="40px" src="https://img.icons8.com/color/480/c-programming.png" />
+<img alt="c++" width="34px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img alt="c#" width="40px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+<img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="SQL" width="40px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
+<img alt="MySQL" width="40px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
+<img alt="Git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img alt="Unity" width="65px" src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem.png" />
+</p>
+  
 <br>
 
-<h1 align="left"> ★Stats★ </h1>
+<h1 align="center"> ★Stats★ </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solixx&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/Solixx">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Solixx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/Solixx">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solixx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" />
+  </a>
+</p>
 <!---
 
 - 👋 Hi, I’m @Solixx
