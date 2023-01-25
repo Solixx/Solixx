@@ -87,7 +87,7 @@
 <p>Problems - 4</p>
 </div>
 <br>
-<div align="rigth">
+<div align="right">
 <h3>Problems</h3>
 <p>Easy    - 14</p>
 <p>Medium  - 0</p>
