@@ -87,12 +87,12 @@
 <p>Problems - 4</p>
 </p>
 <br>
-<div align="right" width="50%">
+   <p align="right" width="50%">
 <h3>Problems</h3>
 <p>Easy    - 14</p>
 <p>Medium  - 0</p>
 <p>Hard    - 1</p>
-</div>
+</p>
 
 <!---
 
