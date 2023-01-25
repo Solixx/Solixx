@@ -75,6 +75,21 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solixx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" />
   </a>
 </p>
+
+<br>
+
+<h1 align="center"> ★LeetCode★ </h1>
+<h2>Languages</h2>
+<h3>Java</h2>
+<p>Problems - 13</p>
+<h3>C</h2>
+<p>Problems - 4</p>
+<br>
+<h2>Problems</h2>
+<h3>Easy    - 14</h2>
+<h3>Medium  - 0</h2>
+<h3>Hard    - 1</h2>
+
 <!---
 
 - 👋 Hi, I’m @Solixx
