@@ -79,16 +79,16 @@
 <br>
 
 <h1 align="center"> ★LeetCode★ </h1>
-<h2>Languages</h2>
-<h3>Java</h2>
+<h3>Languages</h3>
+<h4>Java</h4>
 <p>Problems - 13</p>
-<h3>C</h2>
+<h4>C</h4>
 <p>Problems - 4</p>
 <br>
-<h2>Problems</h2>
-<h3>Easy    - 14</h2>
-<h3>Medium  - 0</h2>
-<h3>Hard    - 1</h2>
+<h3>Problems</h3>
+<p>Easy    - 14</p>
+<p>Medium  - 0</p>
+<p>Hard    - 1</p>
 
 <!---
 
