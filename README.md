@@ -78,7 +78,7 @@
 
 <br>
 
-   <div align="left" width="50%" style="float: left;">
+   <div width="100px">
 <h1 align="center"> ★LeetCode★ </h1>
 <h3>Languages</h3>
 <h4>Java</h4>
@@ -87,7 +87,7 @@
 <p>Problems - 4</p>
 </div>
 <br>
-   <div align="right" width="50%" style="float: right;">
+   <div align="right">
 <h3>Problems</h3>
 <p>Easy    - 14</p>
 <p>Medium  - 0</p>
