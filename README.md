@@ -80,11 +80,12 @@
 
 <div align="left" width="100px">
 <h1 align="center"> ★LeetCode★ </h1>
-<h3>Languages</h3>
+<h3>Languages                 |                 Problems</h3>
 <h4>Java</h4>
-<p>Problems - 13</p>
+<p>Problems - 13                 Easy    - 14</p>
 <h4>C</h4>
-<p>Problems - 4</p>
+<p>Problems - 4                  Medium  - 0</p>
+   <p>                           Hard    - 1</p>
 </div>
 <div align="right">
 <h3>Problems</h3>
