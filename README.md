@@ -1,8 +1,8 @@
 <h1> ★About★ </h1>
 
 <img align="right" width="250px" src="solixx_png.png">
-<p> -> Hi, im Manuel Gonçalves, im a 20 years old developer. </p>
-<p> -> I am a 1st year COMPUTER ENGINEERING student. </p>
+<p> -> Hi, im Manuel Gonçalves, im a 21 years old developer. </p>
+<p> -> I am a 2nd year COMPUTER ENGINEERING student. </p>
 
 <h1> ★Story★ </h1>
 
