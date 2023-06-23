@@ -11,7 +11,7 @@
 <p> -> 2019/2020: Java; </p>
 <p> -> 2020/2021: HTML, CSS and PHP; </p>
 <p> -> 2021/2022: JavaScript and C; </p>
-<p> -> 2022: C#, Unity, React and Node, C; </p>
+<p> -> 2022: C#, Unity, React and Node; </p>
 <p> -> 2023: Java, C; </p>
 
 <h1> ★Current Learning★ </h1>
