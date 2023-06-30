@@ -1,3 +1,5 @@
+<Img src="https://lanyard.cnrad.dev/api/462423636075216896?bg=111&showDisplayName=true"/>
+
 <h1> ★About★ </h1>
 
 <img align="right" width="250px" src="solixx_png.png">
