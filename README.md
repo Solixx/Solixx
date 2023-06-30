@@ -1,6 +1,5 @@
 <h1> ★About★ </h1>
 
-//<img align="right" width="250px" src="solixx_png.png">
 <Img align="right" src="https://lanyard.cnrad.dev/api/462423636075216896?bg=111&showDisplayName=true"/>
 <p> -> Hi, im Manuel Gonçalves, im a 21 years old developer. </p>
 <p> -> I am a 2nd year COMPUTER ENGINEERING student. </p>
