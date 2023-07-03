@@ -29,14 +29,14 @@
 <h1 align="center"> ★Contacts★ </h1>
 
 <p align="center">
-   <a target=”_blank”>
+   <a target=”_blank” href="https://solixx.vercel.app/">
       <img width="40px" src="solixx_png.png">
   </a>
   <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">
       <img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a>
   <a target=”_blank” href="https://twitter.com/Solixx4">
-      <img width="40px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png">
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553">
   </a>
   <a target="_blank">
       <img width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
