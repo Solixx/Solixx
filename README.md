@@ -2,7 +2,7 @@
 
 <Img align="right" src="https://lanyard.cnrad.dev/api/462423636075216896?bg=none&showDisplayName=true"/>
 <p> -> Hi, im Manuel Gonçalves, im a 21 years old developer. </p>
-<p> -> I am a 3nd year COMPUTER ENGINEERING student. </p>
+<p> -> I am a 3rd year student of COMPUTER ENGINEERING. </p>
 <p> -> My Website https://solixx.vercel.app/</p>
 
 <h1> ★Story★ </h1>
