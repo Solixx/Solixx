@@ -14,7 +14,7 @@
 <p> -> 2021/2022: JavaScript and C; </p>
 <p> -> 2022: C#, Unity, React and Node; </p>
 <p> -> 2023: Java, C; </p>
-<p> -> 2024: JavaScript, Typescript, NodeJS/TS, ReactJS/TS, NextJS/TS, Futter, PostgreSQL, Unity, C#, Laravel, PHP; </p>
+<p> -> 2024: JavaScript, Typescript, NodeJS/TS, ReactJS/TS, NextJS/TS, Flutter, PostgreSQL, Unity, C#, Laravel, PHP; </p>
 
 <h1> ★Current Learning★ </h1>
 
