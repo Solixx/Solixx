@@ -30,7 +30,7 @@
 <h1 align="center"> ★Contacts★ </h1>
 
 <p align="center">
-   <a target=”_blank” href="https://solixx.vercel.app/">
+   <a target=”_blank” href="https://www.manuelgoncalves.me/">
       <img width="40px" src="solixx_png.png">
   </a>
   <a target=”_blank” href="https://www.linkedin.com/in/manuel-gon%C3%A7alves-8717401a4/">
