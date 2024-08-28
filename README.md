@@ -3,7 +3,7 @@
 <Img align="right" src="https://lanyard.cnrad.dev/api/462423636075216896?bg=none&showDisplayName=true"/>
 <p> -> Hi, im Manuel Gonçalves, im a 22 years old developer. </p>
 <p> -> I have a degree in computer engineering from Fernando Pessoa University. </p>
-<p> -> My Website https://solixx.vercel.app/</p>
+<p> -> My Website https://www.manuelgoncalves.me/</p>
 
 <h1> ★Story★ </h1>
 
